@@ -1,5 +1,6 @@
 Cloudflare Turnstile Solver (reverse, fully request-based)
 -
+### !!! THIS IS NOT UP-TO-DATE AND WAS RELEASED ONLY FOR LEARNING PURPOSES !!!
 ### Why this release
 Source code is being shared around so we expect Cloudflare to finally update (no important updates that affect reverses for almost 3 months now) after this release (please)  
 Obviously, our service ([solv.now](https://solv.now)) will stay up, although it will probably have downtime for some time.  
